@@ -43,7 +43,7 @@ Annotated bars showing total users vs. churned users
 
 ## 📋 How to Run
 Clone this repository
-git clone https://github.com/ShashwatPathak-01//churn-analysis.git
+git clone https://github.com/ShashwatPathak-01/churn-analysis.git
 
 Install dependencies
 pip install -r requirements.txt
